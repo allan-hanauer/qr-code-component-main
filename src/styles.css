@@ -24,7 +24,6 @@ body {
 
 main {
   display: flex;
-  margin-top: 152px;
   flex-direction: column;
   max-width: 320px;
   max-height: 498px;
